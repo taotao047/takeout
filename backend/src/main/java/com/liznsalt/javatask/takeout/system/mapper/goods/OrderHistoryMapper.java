@@ -4,8 +4,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import com.liznsalt.javatask.takeout.common.utils.DateUtil;
-import com.liznsalt.javatask.takeout.system.model.goods.Goods;
-import jdk.nashorn.internal.objects.NativeString;
 import org.springframework.jdbc.core.RowMapper;
 
 import com.liznsalt.javatask.takeout.system.model.goods.OrderHistory;
